@@ -1,7 +1,7 @@
 /*
  * Font Collection @Bie
  * 
- * by IRvan EFendi
+ * by Irvan Efendi
  * http://irvan-efendy.blogspot.com
  * Licensed Under Google Font.
  *
@@ -54,23 +54,6 @@
   font-style: normal;
   font-weight: 400;
   src: local('Arbutus'), url(https://db.onlinewebfonts.com/t/e881762803dfc0b79d221b7e8673da81.woff) format('woff');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-/* latin-ext */
-@font-face {
-  font-family: 'Audiowide';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Audiowide'), local('Audiowide-Regular'), url(http://fonts.gstatic.com/s/audiowide/v4/7pSgz2MbVvTCvvm7vukSHxJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Audiowide';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Audiowide'), local('Audiowide-Regular'), url(http://fonts.gstatic.com/s/audiowide/v4/8XtYtNKEyyZh481XVWfVOltXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -182,24 +165,7 @@
   font-family: 'Fredericka the Great';
   font-style: normal;
   font-weight: 400;
-  src: local('Fredericka the Great'), local('FrederickatheGreat'), url(http://fonts.gstatic.com/s/frederickathegreat/v5/7Es8Lxoku-e5eOZWpxw18hsRj2C0BvLNQqKHRdEu66Y.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-/* latin-ext */
-@font-face {
-  font-family: 'Italianno';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Italianno'), local('Italianno-Regular'), url(http://fonts.gstatic.com/s/italianno/v6/r8-H81S5And8WyrrbOrbExJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Italianno';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Italianno'), local('Italianno-Regular'), url(http://fonts.gstatic.com/s/italianno/v6/RzzA8gdr3WCK_nxdg53KGltXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  src: local('Fredericka the Great'), local('FrederickatheGreat'), url(https://db.onlinewebfonts.com/t/0ed964b46cdfeeff9e07717b9285bd7f.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -208,7 +174,7 @@
   font-family: 'Jacques Francois Shadow';
   font-style: normal;
   font-weight: 400;
-  src: local('Jacques Francois Shadow'), local('JacquesFrancoisShadow-Regular'), url(http://fonts.gstatic.com/s/jacquesfrancoisshadow/v4/V14y0H3vq56fY9SV4OL_FNT2D60XWwE3525OOYN4RY8.woff2) format('woff2');
+  src: local('Jacques Francois Shadow'), local('JacquesFrancoisShadow-Regular'), url(https://db.onlinewebfonts.com/t/4ff35eefa7d04a2987b0fdfb8ce05cfe.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -217,7 +183,7 @@
   font-family: 'Jolly Lodger';
   font-style: normal;
   font-weight: 400;
-  src: local('Jolly Lodger'), local('JollyLodger'), url(http://fonts.gstatic.com/s/jollylodger/v4/RX8HnkBgaEKQSHQyP9itiT0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
+  src: local('Jolly Lodger'), local('JollyLodger'), url(https://db.onlinewebfonts.com/t/a7cac8b678e80f29ba99edc40f4dada6.woff2) format('woff2');
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -225,7 +191,7 @@
   font-family: 'Jolly Lodger';
   font-style: normal;
   font-weight: 400;
-  src: local('Jolly Lodger'), local('JollyLodger'), url(http://fonts.gstatic.com/s/jollylodger/v4/RX8HnkBgaEKQSHQyP9itiegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  src: local('Jolly Lodger'), local('JollyLodger'), url(https://db.onlinewebfonts.com/t/a7cac8b678e80f29ba99edc40f4dada6.woff) format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -234,75 +200,7 @@
   font-family: 'Londrina Shadow';
   font-style: normal;
   font-weight: 400;
-  src: local('Londrina Shadow'), local('LondrinaShadow-Regular'), url(http://fonts.gstatic.com/s/londrinashadow/v4/dNYuzPS_7eYgXFJBzMoKdUnV9jeMfjBdSIFJtVn-Kw8.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-/* cyrillic */
-@font-face {
-  font-family: 'Marck Script';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Marck Script'), local('MarckScript-Regular'), url(http://fonts.gstatic.com/s/marckscript/v7/O_D1NAZVOFOobLbVtW3bcpX5f-9o1vgP2EXwfjgl7AY.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Marck Script';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Marck Script'), local('MarckScript-Regular'), url(http://fonts.gstatic.com/s/marckscript/v7/O_D1NAZVOFOobLbVtW3bcj0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Marck Script';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Marck Script'), local('MarckScript-Regular'), url(http://fonts.gstatic.com/s/marckscript/v7/O_D1NAZVOFOobLbVtW3bcugdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-/* latin-ext */
-@font-face {
-  font-family: 'Metal Mania';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Metal Mania'), local('MetalMania-Regular'), url(http://fonts.gstatic.com/s/metalmania/v6/_MPduYXiaptg6GQ2M6AHtCYE0-AqJ3nfInTTiDXDjU4.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Metal Mania';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Metal Mania'), local('MetalMania-Regular'), url(http://fonts.gstatic.com/s/metalmania/v6/_MPduYXiaptg6GQ2M6AHtI4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-/* latin */
-@font-face {
-  font-family: 'Miltonian Tattoo';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Miltonian Tattoo'), local('MiltonianTattoo'), url(http://fonts.gstatic.com/s/miltoniantattoo/v9/1oU_8OGYwW46eh02YHydn1emna6HHulEnMafIssNNqk.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-/* latin-ext */
-@font-face {
-  font-family: 'New Rocker';
-  font-style: normal;
-  font-weight: 400;
-  src: local('New Rocker'), local('NewRocker-Regular'), url(http://fonts.gstatic.com/s/newrocker/v5/3tQL6IDxaQ7-ETHHHkqDySEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'New Rocker';
-  font-style: normal;
-  font-weight: 400;
-  src: local('New Rocker'), local('NewRocker-Regular'), url(http://fonts.gstatic.com/s/newrocker/v5/WxdbiEM9pvmAfOzkEv7pc_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  src: local('Londrina Shadow'), local('LondrinaShadow-Regular'), url(https://db.onlinewebfonts.com/t/f20ae902c2bb221c8ad43ba7892e6cb6.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -311,7 +209,7 @@
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 400;
-  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/yg0glPPxXUISnKUejCX4qfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(https://db.onlinewebfonts.com/t/d40bbce8f4b00a569beac2454b69231e.woff2) format('woff2');
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -319,7 +217,7 @@
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 400;
-  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/pEobIV_lL25TKBpqVI_a2w.woff2) format('woff2');
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(https://db.onlinewebfonts.com/t/d40bbce8f4b00a569beac2454b69231e.woff) format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -366,12 +264,19 @@
   src: local('Righteous'), local('Righteous-Regular'), url(https://db.onlinewebfonts.com/t/490cb0e45f39580c7ba1b856f2f1f4a7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
-
 /* latin */
 @font-face {
   font-family: 'Yellowtail';
   font-style: normal;
   font-weight: 400;
   src: local('Yellowtail'), url(https://db.onlinewebfonts.com/t/4a1b186e29ebdceb889da050baf291bf.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Yellowtail'), url(https://db.onlinewebfonts.com/t/ae7951c47ee13ee1f50d9cde9da242ee.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
