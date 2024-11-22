@@ -328,7 +328,7 @@
   font-family: 'Pacifico';
   font-style: normal;
   font-weight: 400;
-  src: local('Pacifico Regular'), local('Pacifico-Regular'), url(http://fonts.gstatic.com/s/pacifico/v7/Q_Z9mv4hySLTMoMjnk_rCfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://db.onlinewebfonts.com/t/6b6170fe52fb23f505b4e056fefd2679.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -337,7 +337,7 @@
   font-family: 'Playball';
   font-style: normal;
   font-weight: 400;
-  src: local('Playball'), local('Playball-Regular'), url(http://fonts.gstatic.com/s/playball/v6/qxC1Yj_4IUZ_PO35Va79QxTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  src: local('Playball'), local('Playball-Regular'), url(https://db.onlinewebfonts.com/t/2ad930f1ac108e2693026444e6733996.woff2) format('woff2');
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -345,7 +345,7 @@
   font-family: 'Playball';
   font-style: normal;
   font-weight: 400;
-  src: local('Playball'), local('Playball-Regular'), url(http://fonts.gstatic.com/s/playball/v6/sSjR6AJRrIl2FxjhncYng_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  src: local('Playball'), local('Playball-Regular'), url(https://db.onlinewebfonts.com/t/2ad930f1ac108e2693026444e6733996.woff) format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -354,41 +354,16 @@
   font-family: 'Righteous';
   font-style: normal;
   font-weight: 400;
-  src: local('Righteous'), local('Righteous-Regular'), url(https://fonts.gstatic.com/s/righteous/v5/eJYqrhUff1n1Ge9A-rSw_BJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  src: local('Righteous'), local('Righteous-Regular'), url(https://db.onlinewebfonts.com/t/490cb0e45f39580c7ba1b856f2f1f4a7.woff) format('woff2');
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
+
 /* latin */
 @font-face {
   font-family: 'Righteous';
   font-style: normal;
   font-weight: 400;
-  src: local('Righteous'), local('Righteous-Regular'), url(https://fonts.gstatic.com/s/righteous/v5/w5P-SI7QJQSDqB3GziL8XVtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-/* latin */
-@font-face {
-  font-family: 'Vast Shadow';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Vast Shadow Regular'), local('VastShadow-Regular'), url(http://fonts.gstatic.com/s/vastshadow/v6/vUwwSAve1had6QNw3_7lJY4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-/* latin-ext */
-@font-face {
-  font-family: 'Sacramento';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Sacramento'), local('Sacramento-Regular'), url(http://fonts.gstatic.com/s/sacramento/v4/Fpg3e9UodPQGSPnPRzpRPSEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Sacramento';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Sacramento'), local('Sacramento-Regular'), url(http://fonts.gstatic.com/s/sacramento/v4/WFDkXpubrEwopJnSlHV6CPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  src: local('Righteous'), local('Righteous-Regular'), url(https://db.onlinewebfonts.com/t/490cb0e45f39580c7ba1b856f2f1f4a7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -397,6 +372,6 @@
   font-family: 'Yellowtail';
   font-style: normal;
   font-weight: 400;
-  src: local('Yellowtail'), url(http://fonts.gstatic.com/s/yellowtail/v6/GcIHC9QEwVkrA19LJU1qlPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  src: local('Yellowtail'), url(https://db.onlinewebfonts.com/t/4a1b186e29ebdceb889da050baf291bf.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
